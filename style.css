@@ -29,7 +29,8 @@ body {
 
 h1 {
   font-size: 50px;
-  font-family: 'AZONIX', sans-serif;
+  font-family: 'Azonix', sans-serif;
+  font-style: oblique;
   margin-bottom: 0;
   line-height: 1;
   font-weight: 700;
